@@ -30,6 +30,24 @@ experience:
     date_start: '2019-10-01'
     date_end: '2010-03-01'
     description: 'Worked on the Mars2020 Rover'
+        
+  - title: 'GNC Engineer'
+    company: 'Akademische Raumfahrtsinitiative Schweiz (ARIS)'
+    company_url: 'https://aris-space.ch/'
+    company_logo: ArisLogo
+    location: 'Zurich, Switzerland'
+    date_start: '2018-09-01'
+    date_end: '2019-07-01'
+    description: 'Designed the Control Systems for a Sounding Rocket'
+
+- title: Teaching Assistant
+    company: 'ETH Zürich' 
+    company_url: 'https://ethz.ch/'
+    company_logo: ETHLogo
+    location: 'Zurich, Switzerland'
+    date_start: '2019-02-01'
+    date_end: '2019-07-01'
+    description: 'Taught Numerical Methods for second-year bachelor students'
 
 design:
   columns: '2'
