@@ -20,7 +20,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: featured.png
+  filename: featured.jpeg
 url_code: ""
 ---
 In order to move Airborne Wind Energy (AWE) into the future, a fundamental concern is being able to guarantee that safety requirements placed on the systems are met. Due to the high dimensional complexity of AWE systems, however, strict mathematical robustness guarantees become difficult to compute.

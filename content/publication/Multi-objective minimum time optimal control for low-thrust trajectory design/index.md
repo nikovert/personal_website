@@ -1,23 +1,23 @@
 ---
-title: "An example conference paper"
+title: "Multi-objective minimum time optimal control for low-thrust trajectory design"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Sina Ober-Blöbaum
+- Kostas Margellos
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2021"
+doi: "10.23919/ECC54610.2021.9654919"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,12 +29,12 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We propose a reachability approach for infinite and finite horizon multi-objective optimization problems for low-thrust spacecraft trajectory design. The main advantage of the proposed method is that the Pareto front can be efficiently constructed from the zero level set of the solution to a Hamilton-Jacobi-Bellman equation. We demonstrate the proposed method by applying it to a low-thrust spacecraft trajectory design problem. By deriving the analytic expression for the Hamiltonian and the optimal control policy, we are able to efficiently compute the backward reachable set and reconstruct the optimal trajectories. Furthermore, we show that any reconstructed trajectory will be guaranteed to be weakly Pareto optimal. The proposed method can be used as a benchmark for future research of applying reachability analysis to low-thrust spacecraft trajectory design.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [Optimal Control]
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -65,8 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
