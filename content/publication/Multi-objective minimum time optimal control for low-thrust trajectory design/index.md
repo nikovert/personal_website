@@ -21,7 +21,7 @@ authors:
   - Kostas Margellos
 author_notes:
   - ""
-publication: In * 2021 European Control Conference (ECC)*
+publication: In *2021 European Control Conference (ECC)*
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -42,7 +42,7 @@ image:
   preview_only: false
 date: "2021"
 url_slides: ""
-publishDate: 2021-01-01T00:00:00Z
+publishDate: 2021-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
