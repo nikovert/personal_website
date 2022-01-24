@@ -1,23 +1,24 @@
 ---
 slides: example
 url_pdf: ""
-summary: A robust control approach for Airborne Wind Energy
+title: Safety-Critical Hybrid Control of an Airborne Wind Energy Systems
+date: 2022-01-24T21:19:14.075Z
+summary: A robust control approach for Airborne Wind Energy Systems
 authors:
   - Nikolaus Vertovec
 url_video: ""
-date: 2022-01-24T21:19:14.075Z
-external_link: ""
-url_slides: ""
-title: Safety-Critical Hybrid Control of an Airborne Wind Energy Systems
+featured: true
 tags:
   - Airborne Wind Energy
+external_link: ""
+url_slides: ""
 links:
   - icon: github
     icon_pack: fab
     name: Source Code
     url: https://github.com/nikovert/AWE_Simulation
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
   filename: flightpath_tetherforce.png
 url_code: ""
