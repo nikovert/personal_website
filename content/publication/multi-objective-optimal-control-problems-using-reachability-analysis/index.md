@@ -20,14 +20,14 @@ abstract: One of the fundamental problems in spacecraft trajectory design is
   to the Pareto front of the developed multi-objective programs. The proposed
   approach is demonstrated on two low thrust orbital transfer problems around a
   rotating asteroid.
-draft: true
+draft: false
 featured: false
 tags:
   - Spacecraft Trajectory Design
   - Reachability
   - Optimal Control
 image:
-  filename: featured
+  filename: multi-objective-optimal-control-problems-using-reachability-analysis.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-01-24T22:15:58.155Z
