@@ -25,7 +25,7 @@ experience:
   - title: 'Intern'
     company:  'NASA Jet Propulsion Laboratory'
     company_url: 'https://www.jpl.nasa.gov/'
-    company_logo: NASAJPL
+    company_logo: ETHLogo
     location: 'Pasadena, USA'
     date_start: '2019-10-01'
     date_end: '2010-03-01'
@@ -34,7 +34,7 @@ experience:
   - title: 'GNC Engineer'
     company: 'ARIS - Akademische Raumfahrtsinitiative Schweiz'
     company_url: 'https://aris-space.ch/'
-    company_logo: ArisLogo
+    company_logo: ETHLogo
     location: Zürich, Switzerland
     date_start: '2018-09-01'
     date_end: '2019-07-01'
