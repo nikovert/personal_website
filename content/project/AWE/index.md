@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: """
 url_pdf: ""
 title: Safety-Critical Hybrid Control of an Airborne Wind Energy Systems
 date: 2022-01-24T21:19:14.075Z
@@ -9,7 +9,7 @@ authors:
 url_video: ""
 featured: true
 tags:
-  - Airborne Wind Energy
+  - AWE
 external_link: ""
 url_slides: ""
 links:
@@ -20,7 +20,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: flightpath_tetherforce.png
+  filename: featured.png
 url_code: ""
 ---
 In order to move Airborne Wind Energy (AWE) into the future, a fundamental concern is being able to guarantee that safety requirements placed on the systems are met. Due to the high dimensional complexity of AWE systems, however, strict mathematical robustness guarantees become difficult to compute.
