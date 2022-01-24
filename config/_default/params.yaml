@@ -22,8 +22,8 @@ twitter: ''
 
 email: nikolaus.vertovec@eng.ox.ac.uk
 address:
-  street: Department of Engineering Science, University of Oxford
-  street: Parks Road
+  street1: Department of Engineering Science, University of Oxford
+  street2: Parks Road
   city: Oxford
   postcode: OX1 3PJ
   country: United Kingdom
