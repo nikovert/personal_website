@@ -40,7 +40,7 @@ experience:
     date_end: '2019-07-01'
     description: 'Designed the Control Systems for a Sounding Rocket'
 
-- title: Teaching Assistant
+  - title: 'Teaching Assistant'
     company: 'ETH Zürich' 
     company_url: 'https://ethz.ch/'
     company_logo: ETHLogo
