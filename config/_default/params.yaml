@@ -21,18 +21,13 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: nikolaus.vertovec@eng.ox.ac.uk
-phone: 888 888 88 88
 address:
-  street: Department of Engineering Science, University of Oxford, Parks Road
+  street: Department of Engineering Science, University of Oxford
+  street: Parks Road
   city: Oxford
   postcode: OX1 3PJ
   country: United Kingdom
   country_code: UK
-contact_links:
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
 
 # Site header
 
