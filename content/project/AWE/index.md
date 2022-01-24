@@ -1,5 +1,5 @@
 ---
-slides: """
+slides: ""
 url_pdf: ""
 title: Safety-Critical Hybrid Control of an Airborne Wind Energy Systems
 date: 2022-01-24T21:19:14.075Z
