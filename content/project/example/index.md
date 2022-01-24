@@ -8,7 +8,7 @@ url_video: ""
 date: 2022-01-24T21:19:14.075Z
 external_link: ""
 url_slides: ""
-title: Example Project
+title: Safety-Critical Hybrid Control of an Airborne Wind Energy Systems
 tags:
   - Airborne Wind Energy
 links:
