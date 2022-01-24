@@ -22,32 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Intern
-    company: NASA Jet Propulsion Laboratory
+  - title: 'Intern'
+    company:  'NASA Jet Propulsion Laboratory'
     company_url: 'https://www.jpl.nasa.gov/'
     company_logo: NASAJPL
-    location: Pasadena, USA
+    location: 'Pasadena, USA'
     date_start: '2019-10-01'
     date_end: '2010-03-01'
-    description: Worked on the Mars2020 Rover
+    description: 'Worked on the Mars2020 Rover'
         
-  - title: GNC Engineer
-    company: ARIS - Akademische Raumfahrtsinitiative Schweiz
+  - title: 'GNC Engineer'
+    company: 'ARIS - Akademische Raumfahrtsinitiative Schweiz'
     company_url: 'https://aris-space.ch/'
     company_logo: ArisLogo
     location: Zürich, Switzerland
     date_start: '2018-09-01'
     date_end: '2019-07-01'
-    description: Designed the Control Systems for a Sounding Rocket
+    description: 'Designed the Control Systems for a Sounding Rocket'
 
 - title: Teaching Assistant
-    company: ETH Zürich 
+    company: 'ETH Zürich' 
     company_url: 'https://ethz.ch/'
     company_logo: ETHLogo
-    location: Zürich, Switzerland
+    location: 'Zürich, Switzerland'
     date_start: '2019-02-01'
     date_end: '2019-07-01'
-    description: Taught Numerical Methods for second-year bachelor students
+    description: 'Taught Numerical Methods for second-year bachelor students'
 
 design:
   columns: '2'
