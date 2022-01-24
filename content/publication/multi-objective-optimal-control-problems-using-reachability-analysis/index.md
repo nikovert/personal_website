@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - admin
-  - SinaOber-Blöbaum
+  - Sina Ober-Blöbaum
   - Kostas Margellos
 publication: "*under review*"
 abstract: One of the fundamental problems in spacecraft trajectory design is
