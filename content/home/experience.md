@@ -22,28 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: Intern
+    company: NASA Jet Propulsion Laboratory
+    company_url: 'https://www.jpl.nasa.gov/'
+    company_logo: NASAJPL
+    location: Pasadena, USA
+    date_start: '2019-10-01'
+    date_end: '2010-03-01'
+    description: Worked on the Mars2020 Rover
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: GNC Engineer
+    company: ARIS - Akademische Raumfahrtsinitiative Schweiz
+    company_url: 'https://aris-space.ch/'
+    company_logo: ArisLogo
+    location: Zürich, Switzerland
+    date_start: '2018-09-01'
+    date_end: '2019-07-01'
+    description: Designed the Control Systems for a Sounding Rocket
+
+- title: Teaching Assistant
+    company: ETH Zürich 
+    company_url: 'https://ethz.ch/'
+    company_logo: ETHLogo
+    location: Zürich, Switzerland
+    date_start: '2019-02-01'
+    date_end: '2019-07-01'
+    description: Taught Numerical Methods for second-year bachelor students
 
 design:
   columns: '2'

@@ -31,7 +31,7 @@ education:
       year: ""
     - course: BSc in Electrical Engineering and Information Technology
       institution: ETH Zürich (Swiss Federal Institute of Technology)
-      year: 2017
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
