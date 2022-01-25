@@ -38,4 +38,4 @@ highlight_name: true
 ---
 Nikolaus Vertovec is a DPhil student under the supervision of Kostas Margellos and Sina Ober-Blöbaum. His research is focused on optimization and reachability analysis, with applications focussing on spacecraft trajectory design.\
 \
-Nikolaus received a Bachelors's degree in Electrical Engineering from ETH Zurich in 2019. While at ETH, Nikolaus was the avionics lead for the swiss academic space initiative. After graduating, Nikolaus took on an internship at the Jet Propulsion Labs in Pasadena, California, and until the starting of his DPhil in 2020, worked on the Mars2020 rover.
+Nikolaus received a Bachelors's degree in Electrical Engineering from ETH Zurich in 2019. While at ETH, Nikolaus was the avionics lead for the Swiss Academic Space Initiative. After graduating, Nikolaus took on an internship at the Jet Propulsion Labs in Pasadena, California, where he worked on the Mars2020 rover.
