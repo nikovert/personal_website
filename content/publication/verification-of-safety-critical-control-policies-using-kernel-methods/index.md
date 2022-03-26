@@ -3,7 +3,7 @@ title: Verification of safety critical control policies using kernel methods
 publication_types:
   - "1"
 authors:
-  - Nikolaus Vertovec
+  - admin
   - Sina Ober-Blöbaum
   - Kostas Margellos
 publication: 2022 European Control Conference (ECC)
@@ -23,7 +23,9 @@ abstract: Hamilton-Jacobi reachability methods for safety-critical control have
 draft: false
 featured: false
 tags:
-  - ReachabilityOptimalControlMachineLearning
+  - Reachability
+  - Optimal Control
+  - Machine Learning
 image:
   filename: corrected_v_high.png
   focal_point: Smart
