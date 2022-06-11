@@ -20,7 +20,7 @@ links:
   - url: https://www.vertovec.info/publication/safety-aware-hybrid-control-of-airborne-wind-energy-systems/
     icon_pack: far
     name: Paper
-    icon: fa-regular fa-book
+    icon: book
 image:
   caption: ""
   focal_point: Smart
