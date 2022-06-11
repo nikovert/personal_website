@@ -2,7 +2,7 @@
 slides: ""
 url_pdf: ""
 title: Safety-Aware Hybrid Control of an Airborne Wind Energy Systems
-date: 2022-06-10T12:57:45.514Z
+date: 2022-06-11T15:52:50.717Z
 summary: A robust control approach for Airborne Wind Energy Systems
 authors:
   - Nikolaus Vertovec
@@ -17,6 +17,8 @@ links:
     icon_pack: fab
     name: Source Code
     url: https://github.com/nikovert/AWE_Simulation
+  - url: https://www.vertovec.info/publication/safety-aware-hybrid-control-of-airborne-wind-energy-systems/
+    icon_pack: ai
 image:
   caption: ""
   focal_point: Smart
