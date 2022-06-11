@@ -19,6 +19,7 @@ links:
     url: https://github.com/nikovert/AWE_Simulation
   - url: https://www.vertovec.info/publication/safety-aware-hybrid-control-of-airborne-wind-energy-systems/
     icon_pack: ai
+    name: Paper
 image:
   caption: ""
   focal_point: Smart
