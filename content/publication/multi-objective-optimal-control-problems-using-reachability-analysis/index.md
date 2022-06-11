@@ -1,5 +1,6 @@
 ---
-title: Multi-objective optimal control problems using reachability analysis
+title: Multi-objective low-thrust spacecraft trajectory design using
+  reachability analysis
 publication_types:
   - "2"
 authors:
