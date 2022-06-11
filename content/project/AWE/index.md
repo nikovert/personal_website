@@ -13,13 +13,14 @@ tags:
 external_link: ""
 url_slides: ""
 links:
-  - icon: fa-regular fa-book
+  - icon: github
     icon_pack: far
     name: Source Code
     url: https://github.com/nikovert/AWE_Simulation
   - url: https://www.vertovec.info/publication/safety-aware-hybrid-control-of-airborne-wind-energy-systems/
     icon_pack: ai
     name: Paper
+    icon: fa-regular fa-book
 image:
   caption: ""
   focal_point: Smart
