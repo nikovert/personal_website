@@ -14,7 +14,7 @@ external_link: ""
 url_slides: ""
 links:
   - icon: github
-    icon_pack: far
+    icon_pack: fab
     name: Source Code
     url: https://github.com/nikovert/AWE_Simulation
   - url: https://www.vertovec.info/publication/safety-aware-hybrid-control-of-airborne-wind-energy-systems/
