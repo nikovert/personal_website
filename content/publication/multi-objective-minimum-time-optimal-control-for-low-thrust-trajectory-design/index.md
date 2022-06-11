@@ -30,7 +30,7 @@ url_source: ""
 url_video: ""
 title: Multi-objective minimum time optimal control for low-thrust trajectory design
 doi: 10.23919/ECC54610.2021.9654919
-featured: true
+featured: false
 tags:
   - Spacecraft Trajectory Design
   - Reachability
