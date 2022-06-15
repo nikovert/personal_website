@@ -6,7 +6,8 @@ authors:
   - admin
   - Sina Ober-Blöbaum
   - Kostas Margellos
-publication: 2022 European Control Conference (ECC)
+publication: In *2022 European Control Conference (ECC)*
+publication_short: In *ECC22*
 abstract: Hamilton-Jacobi reachability methods for safety-critical control have
   been well studied, but the safety guarantees derived rely on the accuracy of
   the numerical computation. Thus, it is crucial to understand and account for
