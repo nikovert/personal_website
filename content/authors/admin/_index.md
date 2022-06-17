@@ -32,8 +32,9 @@ education:
     - course: BSc in Electrical Engineering and Information Technology
       institution: ETH Zürich (Swiss Federal Institute of Technology)
       year: 2019
-email: ""
+email: nikolaus.vertovec@eng.ox.ac.uk
 superuser: true
+user_groups: []
 highlight_name: true
 ---
 Nikolaus Vertovec is a DPhil student under the supervision of Kostas Margellos and Sina Ober-Blöbaum. His research is focused on optimization and reachability analysis, with applications focussing on spacecraft trajectory design.\
