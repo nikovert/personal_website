@@ -32,7 +32,7 @@ education:
     - course: BSc in Electrical Engineering and Information Technology
       institution: ETH Zürich (Swiss Federal Institute of Technology)
       year: 2019
-email: nikolaus.vertovec@eng.ox.ac.uk
+email: nikolaus(dot)vertovec(at)eng(dot)ox(dot)ac(dot)uk
 superuser: true
 user_groups: []
 highlight_name: true
