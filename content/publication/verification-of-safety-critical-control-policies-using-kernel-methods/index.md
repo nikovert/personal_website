@@ -23,6 +23,7 @@ abstract: Hamilton-Jacobi reachability methods for safety-critical control have
   pursuit-evasion example.
 draft: false
 featured: false
+doi: 10.23919/ECC55457.2022.9838224
 tags:
   - Reachability
   - Optimal Control
