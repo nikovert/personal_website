@@ -1,11 +1,12 @@
 ---
 title: Safety-Aware Hybrid Control of Airborne Wind Energy Systems
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Sina Ober-Blöbaum
   - Kostas Margellos
+publication: "*under review*"
 abstract: A fundamental concern in moving Airborne Wind Energy (AWE) operations
   towards commercial success, is guaranteeing that safety requirements placed on
   the systems are met. Due to the high dimensional complexity of AWE systems,
