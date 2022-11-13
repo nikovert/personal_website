@@ -31,5 +31,5 @@ image:
   filename: multi-objective-optimal-control-problems-using-reachability-analysis.jpg
   focal_point: Smart
   preview_only: false
-date: 2022-06-11T13:11:22.942Z
+date: 2022-11-11T13:11:22.942Z
 ---
