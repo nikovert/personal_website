@@ -23,6 +23,7 @@ abstract: One of the fundamental problems in spacecraft trajectory design is
   rotating asteroid.
 draft: false
 featured: true
+doi: 10.1016/j.ejcon.2022.100758
 tags:
   - Spacecraft Trajectory Design
   - Reachability
