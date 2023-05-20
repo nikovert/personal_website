@@ -28,7 +28,7 @@ abstract: A fundamental concern in moving Airborne Wind Energy (AWE) operations
   assume the worst-case environmental and system behavior at all times, leading
   to potentially sub-optimal control laws.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
