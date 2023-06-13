@@ -4,10 +4,12 @@ role: DPhil Student
 avatar_filename: profile_image.jpg
 bio: My research interests include optimal control with applications in
   spacecraft trajectory design and airborne wind energy.
-interests:
-  - Optimal Control
-  - Multi Objective Optimization
-  - Reachability
+Research interests:
+  - Reachability analysis;
+  - Statistical learning theory;
+  - Decentralized and distributed control;
+  - Reinforcement Learning;
+  - Airborne Wind Energy;
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,11 +39,6 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a Doctoral student under the supervision of Kostas Margellos and Sina Ober-Blöbaum at the University of Oxford. My research interests currently focus on Safety-Critical Control and Optimization of Complex Systems. In particular, I work on
-- Reachability analysis;
-- Statistical learning theory;
-- Decentralized and distributed control;
-- Reinforcement Learning;
-- Airborne Wind Energy;
+I am a Doctoral student under the supervision of Kostas Margellos and Sina Ober-Blöbaum at the University of Oxford. My research interests currently focus on Safety-Critical Control and Optimization of Complex Systems.
 
 I received a Bachelors's degree in Electrical Engineering from ETH Zurich in 2019. While at ETH, I was the avionics lead for the Swiss Academic Space Initiative. After graduating, I took on an internship at the Jet Propulsion Labs in Pasadena, California, where I worked on the Mars2020 rover.
