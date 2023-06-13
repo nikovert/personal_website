@@ -4,7 +4,7 @@ role: DPhil Student
 avatar_filename: profile_image.jpg
 bio: My research interests include optimal control with applications in
   spacecraft trajectory design and airborne wind energy.
-Research interests:
+interests:
   - Reachability analysis;
   - Statistical learning theory;
   - Decentralized and distributed control;
