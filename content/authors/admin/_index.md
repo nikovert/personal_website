@@ -37,6 +37,11 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-Nikolaus Vertovec is a DPhil student under the supervision of Kostas Margellos and Sina Ober-Blöbaum. His research is focused on optimization and reachability analysis, with applications focussing on spacecraft trajectory design.\
-\
-Nikolaus received a Bachelors's degree in Electrical Engineering from ETH Zurich in 2019. While at ETH, Nikolaus was the avionics lead for the Swiss Academic Space Initiative. After graduating, Nikolaus took on an internship at the Jet Propulsion Labs in Pasadena, California, where he worked on the Mars2020 rover.
+I am a Doctoral student under the supervision of Kostas Margellos and Sina Ober-Blöbaum at the University of Oxford. My research interests currently focus on Safety-Critical Control and Optimization of Complex Systems. In particular, I work on
+- Reachability analysis;
+- Statistical learning theory;
+- Decentralized and distributed control;
+- Reinforcement Learning;
+- Airborne Wind Energy;
+
+I received a Bachelors's degree in Electrical Engineering from ETH Zurich in 2019. While at ETH, I was the avionics lead for the Swiss Academic Space Initiative. After graduating, I took on an internship at the Jet Propulsion Labs in Pasadena, California, where I worked on the Mars2020 rover.
