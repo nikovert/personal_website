@@ -5,7 +5,7 @@ title: Safety-Aware Hybrid Control of an Airborne Wind Energy Systems
 date: 2022-06-11T15:52:50.717Z
 summary: A robust control approach for Airborne Wind Energy Systems
 authors:
-  - Nikolaus Vertovec
+  - admin
 url_video: ""
 featured: true
 tags:
