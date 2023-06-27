@@ -6,6 +6,8 @@ draft: true
 featured: false
 authors:
   - admin
+  - Kostas Margellos
+  - Maria Prandini
 tags:
   - Machine Learning
 links:
