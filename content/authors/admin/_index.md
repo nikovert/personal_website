@@ -5,11 +5,11 @@ avatar_filename: profile_image.jpg
 bio: My research interests include optimal control with applications in
   spacecraft trajectory design and airborne wind energy.
 interests:
-  - Reachability analysis;
-  - Statistical learning theory;
-  - Decentralized and distributed control;
-  - Reinforcement Learning;
-  - Airborne Wind Energy;
+  - Reachability analysis
+  - Statistical learning theory
+  - Decentralized and distributed control
+  - Reinforcement Learning
+  - Airborne Wind Energy
 social:
   - icon: envelope
     icon_pack: fas
