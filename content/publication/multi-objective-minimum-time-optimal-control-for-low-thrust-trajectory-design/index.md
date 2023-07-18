@@ -21,11 +21,11 @@ authors:
   - Kostas Margellos
 author_notes:
   - ""
-publication: In *2021 European Control Conference (ECC)*
+publication: In *2021 European Control Conference (ECC)*, Delft, Netherlands, 2021, pp. 1975-1980.
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ECC21*
+publication_short: ""
 url_source: ""
 url_video: ""
 title: Multi-objective minimum time optimal control for low-thrust trajectory design
