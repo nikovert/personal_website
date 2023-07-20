@@ -6,7 +6,7 @@ authors:
   - admin
   - Kostas Margellos
 doi: 10.1109/LCSYS.2023.3285655
-publication: In *IEEE Control Systems Letters*, vol 7, pp. 2269-2274.
+publication: In *IEEE Control Systems Letters*, vol 7, pp. 2269-2274
 abstract: We propose a distributed algorithm to solve a dynamic programming
   problem with multiple agents, where each agent has only partial knowledge of
   the state transition probabilities and costs. We provide consensus proofs for
