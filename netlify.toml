@@ -7,7 +7,7 @@
 [[redirects]]
   from = "/nikovert"
   to = "https://github.com/nikovert"
-  status = 200
+  status = 301
   force = true
 
 [build]
