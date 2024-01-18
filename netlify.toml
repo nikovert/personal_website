@@ -9,6 +9,12 @@
   to = "https://github.com/nikovert/distributed_traffic_routing"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "/code/AWE-simulation"
+  to = "https://github.com/nikovert/AWE_Simulation"
+  status = 301
+  force = true
 
 [[redirects]]
   from = "/code"
