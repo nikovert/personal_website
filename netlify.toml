@@ -1,3 +1,9 @@
+[[redirects]]
+  from = "/code/learning-moving-targets"
+  to = "https://github.com/nikovert/Code---Finite-sample-learning-of-moving-targets"
+  status = 200
+  force = true
+
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
