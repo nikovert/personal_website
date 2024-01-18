@@ -3,7 +3,12 @@
   to = "https://github.com/nikovert/Code---Finite-sample-learning-of-moving-targets"
   status = 200
   force = true
-  headers = {X-From = "Netlify"}
+
+[[redirects]]
+  from = "/nikovert"
+  to = "https://github.com/nikovert"
+  status = 200
+  force = true
 
 [build]
   command = "hugo --gc --minify -b $URL"
