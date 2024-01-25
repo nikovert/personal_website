@@ -29,6 +29,7 @@ abstract: A fundamental concern in moving Airborne Wind Energy (AWE) operations
   to potentially sub-optimal control laws.
 draft: false
 featured: false
+doi: 10.2514/1.G007254
 image:
   filename: featured
   focal_point: Smart
