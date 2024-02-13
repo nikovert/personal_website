@@ -7,7 +7,7 @@ authors:
   - admin
   - Sina Ober-Blöbaum
   - Kostas Margellos
-publication: In *European Journal of Control, Volume 69, January 2023*
+publication: In *European Journal of Control*, vol. 69, p. 100758, Jan. 2023
 abstract: One of the fundamental problems in spacecraft trajectory design is
   finding the optimal transfer trajectory that minimizes the propellant
   consumption and transfer time simultaneously. We formulate this as a
