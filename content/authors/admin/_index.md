@@ -1,9 +1,9 @@
 ---
 title: Nikolaus Vertovec
-role: DPhil Student
-avatar_filename: profile_image.jpg
-bio: My research interests include optimal control with applications in
-  spacecraft trajectory design and airborne wind energy.
+role: Junior Fellow in Artificial Intelligence
+avatar_filename: niko2024.jpg
+bio: My research interests include safety critical optimal control with a focus
+  on learning based approaches.
 interests:
   - Reachability analysis
   - Statistical learning theory
@@ -39,6 +39,8 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a Doctoral student under the supervision of Kostas Margellos and Sina Ober-Blöbaum at the University of Oxford. My research interests currently focus on Safety-Critical Control and Optimization of Complex Systems.
+I'm a Career Development Fellow in Artificial Intelligence at St Hughs College, Oxford. I'm working on enforcing safety in AI, working closely with the Oxford Control & Verification group within the Department of Computer Science.
 
-I received a Bachelors's degree in Electrical Engineering from ETH Zurich in 2019. While at ETH, I was the avionics lead for the Swiss Academic Space Initiative. After graduating, I took on an internship at the Jet Propulsion Labs in Pasadena, California, where I worked on the Mars2020 rover.
+After receiving my Bachelor's degree in Electrical Engineering from ETH Zurich in 2019, I worked on the Mars2020 rover at the NASA Jet Propulsion Laboratory. I completed my DPhil at Oxford's Department of Engineering Science in 2024.
+ 
+My research interests concern the verification of learned models and safety enforcement during the training of learning-based controllers for complex dynamical systems. My work has been applied to spacecraft trajectory design and airborne wind energy, among other applications.
