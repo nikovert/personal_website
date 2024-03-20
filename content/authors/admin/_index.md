@@ -20,9 +20,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/nikovert
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/nikolaus-vertovec-179a39113/
 organizations:
   - name: Oxford University
     url: https://eng.ox.ac.uk/control/
