@@ -21,7 +21,7 @@ abstract: We propose a distributed algorithm to solve a dynamic programming
   congestion information with other agents allowing for fully distributed
   routing with minimal communication between agents.
 draft: false
-featured: true
+featured: false
 tags:
   - Distributed control
   - Optimal Control
