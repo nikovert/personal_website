@@ -21,7 +21,7 @@ authors:
   - Kostas Margellos
 author_notes:
   - ""
-publication: In *2021 European Control Conference (ECC)*, Delft, Netherlands, 2021, pp. 1975-1980
+publication: In *2021 European Control Conference (ECC)*, Delft, Netherlands, pp. 1975-1980
 summary: ""
 url_dataset: ""
 url_project: ""
