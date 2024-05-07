@@ -7,7 +7,8 @@ authors:
   - admin
   - Sina Ober-Blöbaum
   - Kostas Margellos
-publication: In *European Journal of Control*, vol. 69, p. 100758, Jan. 2023
+doi: 10.1016/j.ejcon.2022.100758
+publication: In *European Journal of Control*, vol. 69, p. 100758
 abstract: One of the fundamental problems in spacecraft trajectory design is
   finding the optimal transfer trajectory that minimizes the propellant
   consumption and transfer time simultaneously. We formulate this as a
@@ -23,7 +24,6 @@ abstract: One of the fundamental problems in spacecraft trajectory design is
   rotating asteroid.
 draft: false
 featured: false
-doi: 10.1016/j.ejcon.2022.100758
 tags:
   - Spacecraft Trajectory Design
   - Reachability
