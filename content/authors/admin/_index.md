@@ -6,8 +6,8 @@ bio: My research interests include safety-critical optimal control with a focus
   on learning-based approaches.
 interests:
   - Reachability analysis
-  - statistical learning theory
-  - physic-informed neual networks
+  - Statistical learning theory
+  - Physics-informed neural networks
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,11 +18,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/nikovert
-  - display:
-      header: false
-    link: https://www.linkedin.com/in/nikolaus-vertovec/
-    icon_pack: fab
-    icon: linkedin
 organizations:
   - name: Oxford University
     url: https://eng.ox.ac.uk/control/
