@@ -38,4 +38,4 @@ I am a Career Development Fellow in Artificial Intelligence at St Hugh's College
 
 I earned my Bachelor's degree in Electrical Engineering from ETH Zurich in 2019. Following this, I worked at NASA's Jet Propulsion Laboratory on the Mars 2020 rover mission. In 2024, I completed my DPhil at Oxford's Department of Engineering Science.
 
-My research interests include physic-informed machine learning, finite-sample learning, certified Learning, and learning for verification. I have applied my research to safety verification of uncertain dynamical systems, including spacecraft trajectory design and airborne wind energy.
+My research interests include physics-informed machine learning, finite-sample learning, certified Learning, and learning for verification. I have applied my research to safety verification of uncertain dynamical systems, including spacecraft trajectory design and airborne wind energy.
