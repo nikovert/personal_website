@@ -28,7 +28,7 @@ experience:
     company_logo: University_of_Oxford
     location: 'Oxford, UK'
     date_start: '2024-01-01'
-    date_end: 'present'
+    date_end: ''
     description: 'Working on safe AI and assured autonomy'
         
   - title: 'Intern'
@@ -37,7 +37,7 @@ experience:
     company_logo: NASAJPL
     location: 'Pasadena, USA'
     date_start: '2019-10-01'
-    date_end: '2010-03-01'
+    date_end: '2020-03-01'
     description: 'Worked on the Mars2020 Rover'
         
   - title: 'GNC Engineer'
