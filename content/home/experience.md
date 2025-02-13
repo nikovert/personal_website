@@ -25,7 +25,7 @@ experience:
   - title: 'Postdoctoral Researcher'
     company:  'St Hugh's College/Department of Computer Science, University of Oxford'
     company_url: 'https://oxcav.web.ox.ac.uk/'
-    company_logo: Oxford_CS
+    company_logo: University_of_Oxford
     location: 'Oxford, UK'
     date_start: '2024-01-01'
     date_end: 'present'
