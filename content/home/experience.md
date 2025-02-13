@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'Postdoctoral Researcher'
+    company:  'St Hugh's College/Department of Computer Science, University of Oxford'
+    company_url: 'https://oxcav.web.ox.ac.uk/'
+    company_logo: University_of_Oxford
+    location: 'Oxford, UK'
+    date_start: '2024-01-01'
+    date_end: 'present'
+    description: 'Working on safe AI and assured autonomy'
+        
   - title: 'Intern'
     company:  'NASA Jet Propulsion Laboratory'
     company_url: 'https://www.jpl.nasa.gov/'
