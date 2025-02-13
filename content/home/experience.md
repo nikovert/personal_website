@@ -28,7 +28,7 @@ experience:
     company_logo: University_of_Oxford
     location: 'Oxford, UK'
     date_start: '2024-01-01'
-    date_end: 'present'
+    date_end: ''
     description: 'Working on safe AI and assured autonomy'
         
   - title: 'Intern'
