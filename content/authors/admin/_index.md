@@ -39,7 +39,7 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-I am a Career Development Fellow in Artificial Intelligence at St Hugh's College and a member of the Oxford Control & Verification group within the Department of Computer Science, University of Oxford. My work focuses on certified Learning, and learning for verification.
+I am a Career Development Fellow in Artificial Intelligence at St Hugh's College and a member of the Oxford Control & Verification group within the Department of Computer Science, University of Oxford. My work focuses on certified learning, and learning for verification.
 
 I earned my Bachelor's degree in Electrical Engineering from ETH Zurich in 2019. Following this, I worked at NASA's Jet Propulsion Laboratory on the Mars 2020 rover mission. In 2024, I completed my DPhil at Oxford's Department of Engineering Science.
 
