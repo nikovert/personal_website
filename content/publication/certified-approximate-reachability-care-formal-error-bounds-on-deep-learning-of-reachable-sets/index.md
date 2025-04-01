@@ -1,6 +1,6 @@
 ---
-title: "Certified Approximate Reachability (CARe): Formal Error Bounds on Deep
-  Learning of Reachable Sets"
+title: Certified Approximate Reachability (CARe)
+subtitle: Formal Error Bounds on Deep Learning of Reachable Sets
 publication_types:
   - "3"
 authors:
