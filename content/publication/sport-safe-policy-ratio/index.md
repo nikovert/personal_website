@@ -7,6 +7,8 @@ authors:
   - Jacques Cloete
   - admin
   - Alessandro Abate
+publication: In *International Joint Conference on Artificial Intelligence*
+publication_short: IJCAI
 abstract: "To apply reinforcement learning to safety-critical applications, we
   ought to provide safety guarantees during both policy training and deployment.
   In this work we present novel theoretical results that provide a bound on the
