@@ -7,7 +7,7 @@ authors:
   - Fran Meissner
   - admin
 doi: 10.1080/01419870.2025.2469694
-publication: In *Ethnic and Racial Studies*, pp. 1–17
+publication: In *Ethnic and Racial Studies*, 48(9), pp. 1859–1875
 abstract: "Vertovec’s social organisation of difference framework links three
   research areas. They study difference and its social importance: encounters,
   representations, and structural configurations. This paper argues for an
