@@ -4,12 +4,13 @@ subtitle: ""
 publication_types:
   - "3"
 authors:
-  - Frederik Baymler Mathiesen*
-  - admin*
+  - Frederik Baymler Mathiesen
+  - admin
   - Francesco Fabiano
   - Luca Laurenti
   - Alessandro Abate
-author_notes: []
+author_notes:
+  - first and second author contributed equally
 abstract: "Neural networks hold great potential to act as approximate models of
   nonlinear dynamical systems, with the resulting neural approximations enabling
   verification and control of such systems. However, in safety-critical
