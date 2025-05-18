@@ -10,7 +10,8 @@ authors:
   - Jasper Van Beers
   - Coen de Visser
   - Alessandro Abate
-author_notes: []
+author_notes:
+  - first and second author contributed equally
 abstract: Recent approaches to leveraging deep learning for computing reachable
   sets of continuous-time dynamical systems have gained popularity over
   traditional level-set methods, as they overcome the curse of dimensionality.
