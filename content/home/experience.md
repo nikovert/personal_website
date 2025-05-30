@@ -30,7 +30,16 @@ experience:
     date_start: '2024-01-01'
     date_end: ''
     description: Certified learning, and learning for verification with a focus on neural network verification
-        
+
+  - title: DPhil
+    company: Department of Engineering Science, University of Oxford
+    company_url: 'https://eng.ox.ac.uk/control/'
+    company_logo: Oxford
+    location: Oxford, UK
+    date_start: '2020-04-01'
+    date_end: '2024-04-01'
+    description: Optimal control for safety-critical systems
+    
   - title: Intern
     company: NASA Jet Propulsion Laboratory
     company_url: 'https://www.jpl.nasa.gov/'
