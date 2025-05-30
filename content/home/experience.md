@@ -25,11 +25,11 @@ experience:
   - title: Postdoctoral Researcher
     company: St Hugh's College/Department of Computer Science, University of Oxford
     company_url: 'https://oxcav.web.ox.ac.uk/'
-    company_logo: University_of_Oxford
+    company_logo: Oxford
     location: Oxford, UK
     date_start: '2024-01-01'
     date_end: ''
-    description: Working on safe AI and assured autonomy
+    description: Certified learning, and learning for verification with a focus on neural network verification
         
   - title: Intern
     company: NASA Jet Propulsion Laboratory
