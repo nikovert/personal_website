@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/code/learning-moving-targets"
-  to = "https://github.com/nikovert/Code---Finite-sample-learning-of-moving-targets"
+  to = "https://github.com/nikovert/finite-sample-learning-of-moving-targets"
   status = 301
   force = true
 
