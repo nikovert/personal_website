@@ -7,6 +7,7 @@ authors:
   - Jacques Cloete
   - admin
   - Alessandro Abate
+doi: 10.24963/ijcai.2025/554
 publication: In *International Joint Conference on Artificial Intelligence*
 publication_short: IJCAI
 abstract: "To apply reinforcement learning to safety-critical applications, we
