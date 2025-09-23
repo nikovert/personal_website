@@ -1,6 +1,6 @@
 ---
 title: Nikolaus Vertovec
-role: Junior Fellow in Artificial Intelligence
+role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include safety-critical optimal control with a focus
   on learning-based approaches.
