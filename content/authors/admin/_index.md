@@ -7,8 +7,9 @@ bio: My research interests include safety-critical optimal control with a focus
 interests:
   - Reachability analysis
   - Statistical learning theory
-  - Reinforcement Learning
-  - Physics-informed neural networks
+  - Safe Reinforcement Learning
+  - Neural Network Verification
+  - Physics-informed neural network
 social:
   - icon: envelope
     icon_pack: fas
