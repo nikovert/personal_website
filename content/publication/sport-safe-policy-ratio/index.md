@@ -2,7 +2,7 @@
 title: SPoRt -- Safe Policy Ratio
 subtitle: Certified Training and Deployment of Task Policies in Model-Free RL
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Jacques Cloete
   - admin
