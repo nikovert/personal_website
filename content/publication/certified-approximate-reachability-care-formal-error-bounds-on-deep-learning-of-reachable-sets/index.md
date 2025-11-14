@@ -2,7 +2,7 @@
 title: Certified Approximate Reachability (CARe)
 subtitle: Formal Error Bounds on Deep Learning of Reachable Sets
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Prashant Solanki
   - admin
@@ -12,6 +12,8 @@ authors:
   - Alessandro Abate
 author_notes:
   - first and second author contributed equally
+publication: In *64th IEEE Conference on Decision and Control*, Rio de Janeiro, Brazil
+publication_short: CDC
 abstract: Recent approaches to leveraging deep learning for computing reachable
   sets of continuous-time dynamical systems have gained popularity over
   traditional level-set methods, as they overcome the curse of dimensionality.
