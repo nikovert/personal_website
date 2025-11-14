@@ -1,11 +1,12 @@
 ---
 title: "Finite sample learning of moving targets "
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
   - Kostas Margellos
   - Maria Prandini
+publication: In Automatics (in print)
 abstract: We consider a moving target that we seek to learn from samples. Our
   results extend randomized techniques developed in control and optimization for
   a constant target to the case where the target is changing. We derive a novel
