@@ -6,7 +6,8 @@ authors:
   - admin
   - Kostas Margellos
   - Maria Prandini
-publication: In Automatics (in print)
+doi: https://doi.org/10.1016/j.automatica.2025.112763
+publication: In *Automatica*, vol. 185, p. 112763
 abstract: We consider a moving target that we seek to learn from samples. Our
   results extend randomized techniques developed in control and optimization for
   a constant target to the case where the target is changing. We derive a novel
