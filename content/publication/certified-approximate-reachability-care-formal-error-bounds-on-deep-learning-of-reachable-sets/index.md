@@ -12,6 +12,7 @@ authors:
   - Alessandro Abate
 author_notes:
   - first and second author contributed equally
+doi: 10.1109/CDC57313.2025.11312709
 publication: In *64th IEEE Conference on Decision and Control*, Rio de Janeiro, Brazil
 publication_short: CDC
 abstract: Recent approaches to leveraging deep learning for computing reachable
